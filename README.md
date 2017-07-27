@@ -6,9 +6,9 @@
 <br>
 登陆
 <br>
-![github](https://github.com/RiwenWu/MySice_App/blob/master/doc%26imgs/login.png "github")
+![](https://github.com/RiwenWu/MySice_App/blob/master/doc%26imgs/login.png)
 <br>
 主页面
 <br>
-![github](https://github.com/RiwenWu/MySice_App/blob/master/doc%26imgs/mainAction.png "github")
+![](https://github.com/RiwenWu/MySice_App/blob/master/doc%26imgs/mainAction.png)
 <br>
