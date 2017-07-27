@@ -1,6 +1,6 @@
 # MySice_App
 <br/>
-## 华软学生系统App
+华软学生系统App
 <br>
 运行效果展示
 <br/>
