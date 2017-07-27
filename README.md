@@ -6,8 +6,7 @@
 <br/>
 登陆
 <br>
-![](https://github.com/RiwenWu/MySice_App/blob/master/doc%26imgs/login.png)
-<br>
+![image](https://github.com/RiwenWu/MySice_App/blob/master/doc%26imgs/login.png) <br>
 主页面
 <br>
 ![](https://github.com/RiwenWu/MySice_App/blob/master/doc%26imgs/mainAction.png)
